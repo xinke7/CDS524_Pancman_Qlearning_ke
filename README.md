@@ -17,6 +17,8 @@ This project implements a Pacman game where an AI agent learns to play using the
   - Caught by ghost: -5
   - Victory: +30
   - Boundary attempt: -0.3
+<img width="256" height="214" alt="image" src="https://github.com/user-attachments/assets/4a049ba1-02f1-42cf-b249-f1d5eef6fac2" />
+
 
 ## Q-learning Implementation
 
